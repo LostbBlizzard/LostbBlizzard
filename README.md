@@ -1,3 +1,3 @@
-Hi, I’m @LostbBlizzard
-I’m interested in C++,C#,Rust.
-I’m currently learning GameEngine development.
+LostbBlizzard.
+I Use C++,C#,Rust.
+I’m currently doing GameEngine development and compiler development.
